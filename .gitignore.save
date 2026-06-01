@@ -1,0 +1,9 @@
+
+.ven/
+__pycache__/
+*.pyc*.pyo
+.DS_Store
+*.egg-info/
+dist/
+uild/
+.chroma_db
